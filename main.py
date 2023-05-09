@@ -5,7 +5,7 @@ import os
 import time
 
 url = "https://tuan13.bandcamp.com" #tujuan
-proxysource = "https://raw.githubusercontent.com/Bardiafa/Proxy-Leecher/main/proxies.txt" #proxy list
+proxysource = "https://raw.githubusercontent.com/venny5533/test/main/proxies.txt" #proxy list
 
 pt = os.path.dirname(__file__)
 good = os.path.join(pt, "good.txt")
